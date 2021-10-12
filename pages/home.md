@@ -7,6 +7,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+![Event Gear road cases](/static/img/eventgearroadcasebanner_web.jpg "Event Gear road cases")
+
 #### Event Gear is a manufacturer of premium road cases for the audio visual rental and live event industries based in Sydney, Australia.
 
 [+61 2 9189 5786](tel:+61291895786)
