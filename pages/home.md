@@ -12,3 +12,7 @@ eleventyNavigation:
 [+61 2 9189 5786](tel:+61291895786)
 
 [info@eventgear.com.au](mailto:info@eventgear.com.au)
+
+![We're COVID safe](/static/img/event-gear-covid-safe-badge.png "We're COVID safe")
+
+<small>We have developed a COVID-19 Safety Plan to help create and maintain a safe environment for our staff and visitors.</small>
