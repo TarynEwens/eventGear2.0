@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-#### Event Gear is a manufacturer of premium road cases for the audio visual rental and live event industries based in Sydney, Australia.
+## Event Gear is a manufacturer of premium road cases for the audio visual rental and live event industries based in Sydney, Australia.
 
 <br/>
 
