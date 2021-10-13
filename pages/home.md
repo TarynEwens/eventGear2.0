@@ -17,6 +17,7 @@ TEST
 Sign up to our mailing list to be the first to know when we officially launch!
 
 <!-- Begin Mailchimp Signup Form -->
+<div class="mailchimpForm">
 <div id="mc_embed_signup">
   <form
     id="mc-embedded-subscribe-form"
@@ -69,6 +70,7 @@ Sign up to our mailing list to be the first to know when we officially launch!
       </div>
     </div>
   </form>
+</div>
 </div>
 <!--End mc_embed_signup-->
 
