@@ -76,14 +76,11 @@ Sign up to our mailing list to be the first to know when we officially launch!
 
 <br/><br/>
 
-<div class="phone">
 [](tel:+61291895786)
 
 [+61 2 9189 5786](tel:+61291895786)
 
-<div class="email">
 [info@eventgear.com.au](mailto:info@eventgear.com.au)
-</div>
 
 <br/><br/>
 
