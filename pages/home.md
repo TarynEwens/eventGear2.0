@@ -1,12 +1,13 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Event Gear
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
-  key: Home
+  key: Event Gear
   order: 0
 ---
+
 ## Event Gear is a manufacturer of premium road cases for the audio visual rental and live event industries based in Sydney, Australia.
 
 <br/>
